@@ -585,26 +585,3 @@ Sin embargo, es fundamental que el QA:
 **Conclusión final:**
 
 La IA funciona como una herramienta de apoyo para QA, pero no reemplaza el análisis crítico, la validación de requisitos ni la ejecución de pruebas.
-
----
-
-## 9. Entrega
-
-**Repositorio:** Fork de `Simonethg/minimoda-test`.
-
-**Archivo:** `clase-01/practica.md`
-
-**Evidencias:** `clase-01/evidencias/`
-
-La documentación incluye:
-
-- Exploración de MiniModa mediante Gemini.
-- Comparación con ChatGPT.
-- Revisión crítica de seis casos de prueba.
-- Tres casos seleccionados y documentados en Qase.
-- Resultados observados durante las pruebas manuales.
-- Evidencias de ejecución.
-- Mapa del harness.
-- Conclusiones.
-
-Las capturas de la suite y de los casos registrados en Qase se incorporan como evidencias adicionales para cumplir los requisitos de entrega.
